@@ -1,0 +1,46 @@
+body {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #ec183f;
+    font-size: 45px;
+    margin-bottom: 0;
+    line-height:0.7;
+}
+
+header h4 {
+    font-size: 0.75em;
+}
+
+main {
+    margin-bottom: 20px;
+    border-bottom: solid 1px #ccc;
+    padding-bottom: 30px;
+    text-align: justify;
+}
+
+section > img {
+    width: 100%;
+}
+
+ul.redes-sociais {
+    list-style: none;
+    padding: 0;    
+    text-align: center;
+}
+
+ul.redes-sociais li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+ul.redes-sociais li img {
+    width: 50px;
+}
